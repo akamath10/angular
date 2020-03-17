@@ -1,0 +1,1 @@
+This Repository includes all projects related to Angular Application
